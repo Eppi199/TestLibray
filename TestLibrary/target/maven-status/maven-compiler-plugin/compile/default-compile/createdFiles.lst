@@ -1,0 +1,7 @@
+ru\training\webapp\MyLibrray\service\BookServiceImpl.class
+ru\training\webapp\MyLibrray\service\BookService.class
+ru\training\webapp\MyLibrray\dao\BookDao.class
+ru\training\webapp\MyLibrray\dao\BookDaoImpl.class
+ru\training\webapp\MyLibrray\controller\BookController.class
+ru\training\webapp\MyLibrray\model\Author.class
+ru\training\webapp\MyLibrray\model\Book.class
